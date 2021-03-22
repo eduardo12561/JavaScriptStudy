@@ -1,5 +1,5 @@
 // data types
-let yourAge = 18; //number
+let yourAge = 19; //number
 let yourName = 'Eduardo'; //string
 let name = {first: 'Edaurdo', last: 'Breda'}; // oject
 let truth = false; // boolean
