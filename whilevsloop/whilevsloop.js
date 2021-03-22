@@ -7,6 +7,6 @@
 */
 
 // for loop
-for (let num = 0; num <100; num++) { // is the same as while (num) but is a better way to write and read the code
+for (let num = 0; num <99; num++) { // is the same as while (num) but is a better way to write and read the code
     console.log(num);
 }
