@@ -40,4 +40,4 @@ function sumNumbers(num1, num2){
     var  result = num1 + num2;
     console.log(result);
 }
-sumNumbers(10, 10); // use any numbers inside those parenthesis to make a sum +, can also use word, for example sumNumbers('hello','eduardo') = hello eduardo
+sumNumbers(10, 12); // use any numbers inside those parenthesis to make a sum +, can also use word, for example sumNumbers('hello','eduardo') = hello eduardo
